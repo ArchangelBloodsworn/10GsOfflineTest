@@ -5,3 +5,10 @@ C:\Users\Daniel Vittone\Documents\Proyectos\10GsOfflineTest\10GsOfflineTest\obj\
 C:\Users\Daniel Vittone\Documents\Proyectos\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.csproj.CoreCompileInputs.cache
 C:\Users\Daniel Vittone\Documents\Proyectos\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.exe
 C:\Users\Daniel Vittone\Documents\Proyectos\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.pdb
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\bin\Debug\10GsOfflineTest.exe.config
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\bin\Debug\10GsOfflineTest.exe
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\bin\Debug\10GsOfflineTest.pdb
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.csproj.AssemblyReference.cache
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.csproj.CoreCompileInputs.cache
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.exe
+C:\Users\Azrael\Documents\GitHub\10GsOfflineTest\10GsOfflineTest\obj\Debug\10GsOfflineTest.pdb
